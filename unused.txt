@@ -1,0 +1,71 @@
+-- Technical Skills
+
+<p>
+  <strong>Software: </strong>Photoshop, Excel, Word, After Effects, Illustrator, Audacity, Powerpoint
+  <br>
+  <strong>Programming: </strong>HTML5, CSS, JavaScript, Python, Machine Learning/Deep Learning, R, C/C++
+  <br>
+  <strong>Simulation Packages: </strong>AutoCAD, MATLAB, RStudio, SolidWorks
+</p>
+
+<td>
+  <table>
+    <tbody>
+      <tr>
+        <td>After Effects</td>
+        <td>⭐️⭐️⭐️⭐️</td>
+      </tr>
+      <tr>
+        <td>Photoshop</td>
+        <td>⭐️⭐️⭐️⭐️</td>
+      </tr>
+      <tr>
+        <td>Illustrator</td>
+        <td>⭐️⭐️⭐️</td>
+      </tr>
+      <tr>
+        <td>Powerpoint</td>
+        <td>⭐️⭐️⭐️⭐️⭐️</td>
+      </tr>
+      <tr>
+        <td>Word</td>
+        <td>⭐️⭐️⭐️⭐️⭐️</td>
+      </tr>
+      <tr>
+        <td>Excel</td>
+        <td>⭐️⭐️⭐️⭐️</td>
+      </tr>
+    </tbody>
+  </table>
+</td>
+
+<td>
+  <table>
+    <tbody>
+      <tr>
+        <td>Machine Learning</td>
+        <td>⭐️⭐️⭐️⭐️⭐️</td>
+      </tr>
+      <tr>
+        <td>SQL</td>
+        <td>⭐️⭐️⭐️⭐️⭐️</td>
+      </tr>
+      <tr>
+        <td>AutoCAD</td>
+        <td>⭐️⭐️⭐️⭐️</td>
+      </tr>
+      <tr>
+        <td>SolidWorks</td>
+        <td>⭐️⭐️⭐️</td>
+      </tr>
+      <tr>
+        <td>MATLAB</td>
+        <td>⭐️⭐️⭐️</td>
+      </tr>
+      <tr>
+        <td>RStudio</td>
+        <td>⭐️⭐️⭐️</td>
+      </tr>
+    </tbody>
+  </table>
+</td>
